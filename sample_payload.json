@@ -1,0 +1,18 @@
+{
+  "email": "test@example.com",
+  "secret": "abc123",
+  "url": "http://localhost:8080/quiz",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is 2 + 2?",
+      "options": ["1", "2", "3", "4"]
+    },
+    {
+      "id": 2,
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"]
+    }
+  ]
+}
+

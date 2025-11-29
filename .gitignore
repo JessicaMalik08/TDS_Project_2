@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Playwright browsers
+playwright/.local-browsers/
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+*.tmp
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Docker
+*.tar
