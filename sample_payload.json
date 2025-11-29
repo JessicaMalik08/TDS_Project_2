@@ -1,6 +1,6 @@
 {
-  "email": "test@example.com",
-  "secret": "abc123",
+  "email": "24f2000662@ds.study.iitm.ac.in",
+  "secret": "TDS_24f2000662",
   "url": "http://localhost:8080/quiz",
   "questions": [
     {
@@ -15,4 +15,5 @@
     }
   ]
 }
+
 
